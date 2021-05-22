@@ -1,9 +1,9 @@
- Checklist functional Facebook (Log In, Sign Up, Forgot Password)  
+ # Checklist functional Facebook (Log In, Sign Up, Forgot Password)  
 
-Type: | Smoke
-	Critical path
-	Extended
-	Acceptance
+Type: |[ Smoke
+      | Critical path
+      | Extended
+      | Acceptance
 
   ID	Component 	           Verification 	                Type 
 LI-001	Log In(common verify)	   Correct values (email / password)	Smoke
@@ -18,16 +18,21 @@ LI-007		                   Incorrect values (phone),
                                    correct values (password)	        Smoke
 LI-008		                   Correct values (phone), 
                                    incorrect values (password)	        Smoke
-LI-009		Empty field	Extended
-LI-010		Filling in a one field (login)	Extended
-LI-011		Filling in a one field (password)	Extended
-LI-012		Working of buttons (hide / show) password	Smoke
-LI-013		Working of button (Forgot Password)	Smoke
-LI-014		Working of button (Create New Account)	Smoke
-LI-015		Working of button (Create a Page)	Smoke
-LI-016		Working of links in footer	Critical path
-LI-017		The ability to change location scroll with the mouse, button (Page up/down, Home/End)	Smoke
-LI-018		The use of keys and combination (Ctrl+C, Ctrl+V, Enter)	Smoke
+LI-009		                   Empty field	                        Extended
+LI-010		                   Filling in a one field (login)	Extended
+LI-011		                   Filling in a one field (password)	Extended
+LI-012		                   Working of buttons 
+                                   (hide / show) password	        Smoke
+LI-013		                   Working of button (Forgot Password)	Smoke
+LI-014		                   Working of button 
+                                   (Create New Account)	                Smoke
+LI-015		                   Working of button (Create a Page)	Smoke
+LI-016		                   Working of links in footer	        Critical path
+LI-017		                   The ability to change location 
+                                   scroll with the mouse, 
+				   button (Page up/down, Home/End)	Smoke
+LI-018		                   The use of keys and combination 
+                                   (Ctrl+C, Ctrl+V, Enter)	        Smoke
 			
 SU-001	Sign Up (common verify)	Correct filling field 	Smoke
 SU-002		Empty field	Extended

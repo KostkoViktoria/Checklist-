@@ -1,10 +1,10 @@
 # Syberry Academy - Checklist functionality on Facebook  
 **[Log In, Sign Up, Forgot Password]**
 
-
-   Dear User! 
+Dear User! 
  
-*I propose you two choices open a file
+ 
+*I propose you two choices open a file*
 
 **1th**
 1) Click on file with name "Checklist_SA.pdf" which is located above file "README.md"
@@ -17,4 +17,4 @@
 3) Download file
 4) Open and look file "Checklist for Facebook functionality_SA_Kostko_Vika_ver01.doc"
 
-   Thank you for watching!
+Thank you for watching!

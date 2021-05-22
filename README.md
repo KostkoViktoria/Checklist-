@@ -1,5 +1,5 @@
 # Checklist functionality on Facebook (Syberry Academy)
-"Log In, Sign Up, Forgot Password"
+  [Log In, Sign Up, Forgot Password"]
 
 
 _ Dear User! _

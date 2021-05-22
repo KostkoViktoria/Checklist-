@@ -1,10 +1,10 @@
  # Checklist functional Facebook (Log In, Sign Up, Forgot Password)  
 
- Type: 
- |Smoke|
- |Critical path|
- |Extended|
- |Acceptance|
+ Type
+ | Smoke |
+ | Critical path |
+ | Extended |
+ | Acceptance |
 
   ID	Component 	           Verification 	                Type 
 LI-001	Log In(common verify)	   Correct values (email / password)	Smoke

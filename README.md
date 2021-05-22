@@ -4,7 +4,7 @@
 Dear User! 
  
  
-*I propose you two choices open a file*
+*I propose you two choices open a file:*
 
 **1th**
 1) Click on file with name "Checklist_SA.pdf" which is located above file "README.md"

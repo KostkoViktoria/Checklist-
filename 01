@@ -1,1 +1,0 @@
-var file = File.Open("Checklist for Facebook functionality_SA_Kostko_Vika_ver01.docx", FileMode.Open);

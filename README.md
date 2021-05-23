@@ -1,4 +1,4 @@
-# Syberry Academy - ![checklist](https://user-images.githubusercontent.com/84619545/119271704-4ac4b680-bc0b-11eb-937b-5d919eec2b43.png) Checklist functionality on [Facebook](https://www.facebook.com/)  
+# Syberry Academy - ![checklist](https://user-images.githubusercontent.com/84619545/119271842-05ed4f80-bc0c-11eb-9017-3739e770423c.png) Checklist functionality on [Facebook](https://www.facebook.com/)  
 
 Dear User! 
 

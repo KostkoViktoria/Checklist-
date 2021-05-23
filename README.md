@@ -4,7 +4,7 @@ Dear User!
 
 This files includes verify checklist **[Log In || Sign Up || Forgot Password]** for functionality forms of Facebook
  
-> *I propose you two choices **open a file:***
+> I propose you two choices **open a file:**
 
 ## *1th* ##
 
